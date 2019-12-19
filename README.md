@@ -14,3 +14,6 @@ https://prnt.sc/qd9vcn
 
 Taip pat sukurtas paprastas puslapis, kuris leidžia atlikti transakcijas naudojant pasirinką paskyrą ir tinklą(galima tik local ir Ropsten)
 https://prnt.sc/qd9xfe
+
+Sutarties logs:
+https://ropsten.etherscan.io/address/0x259831cf18418460c1fb289e8b1dcbeeb43a3fba
